@@ -1,2 +1,4 @@
 # MouldCil
 3D representation for your stencil
+
+The title MouldCil comes from the amalgamation of the terms, mould and stencil, attempting to depict the essence of 3D digitisation and representation generated from plain 2D imagery. 3D object environment awareness representations, digitising human pose in the third dimension, regeneration of 2D view into 3D modelling and like come into picture in crucial forms belonging different domains like fashion designing, product research and development, tailor-cut architecture etc. The impact of visualising any flat 2D picture in form of a full fledged 3D model has a plethora of advantages. This project aims at bringing life to such raw 2D vectors by generating the corresponding 3D model and representation, which can be eventually deployed in diverse fields as per need.
